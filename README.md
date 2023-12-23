@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning computer science at TUM.
+- 👯 I’m looking to collaborate on interesting stuff.
+- 💬 Ask me about anything.
