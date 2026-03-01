@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning computer science at TUM.
 - 👯 I’m looking to collaborate on interesting stuff.
 - 💬 Ask me about anything.
-- 📫 How to reach me: With discord. Username: gunnibusch
